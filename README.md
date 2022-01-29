@@ -18,6 +18,7 @@ Bookstore is a Single Page Application built in React for bibliophiles
 - Javascript (ES6)
 - React
 - Redux
+- VSCode
 
 ## Getting Started
 
